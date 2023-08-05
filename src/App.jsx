@@ -2,6 +2,7 @@
 function App() {
   return (
     <main className="bg-red-400">
+      <h1>bro reacciona</h1>
       Perfume
 
         Gabrielle Essence Eau De Parfum
